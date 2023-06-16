@@ -1,0 +1,15 @@
+C:\Users\gilmar\Desktop\CSharpCompleto\projectos\RentService\RentService\bin\Debug\net6.0\RentService.exe
+C:\Users\gilmar\Desktop\CSharpCompleto\projectos\RentService\RentService\bin\Debug\net6.0\RentService.deps.json
+C:\Users\gilmar\Desktop\CSharpCompleto\projectos\RentService\RentService\bin\Debug\net6.0\RentService.runtimeconfig.json
+C:\Users\gilmar\Desktop\CSharpCompleto\projectos\RentService\RentService\bin\Debug\net6.0\RentService.dll
+C:\Users\gilmar\Desktop\CSharpCompleto\projectos\RentService\RentService\bin\Debug\net6.0\RentService.pdb
+C:\Users\gilmar\Desktop\CSharpCompleto\projectos\RentService\RentService\obj\Debug\net6.0\RentService.csproj.AssemblyReference.cache
+C:\Users\gilmar\Desktop\CSharpCompleto\projectos\RentService\RentService\obj\Debug\net6.0\RentService.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gilmar\Desktop\CSharpCompleto\projectos\RentService\RentService\obj\Debug\net6.0\RentService.AssemblyInfoInputs.cache
+C:\Users\gilmar\Desktop\CSharpCompleto\projectos\RentService\RentService\obj\Debug\net6.0\RentService.AssemblyInfo.cs
+C:\Users\gilmar\Desktop\CSharpCompleto\projectos\RentService\RentService\obj\Debug\net6.0\RentService.csproj.CoreCompileInputs.cache
+C:\Users\gilmar\Desktop\CSharpCompleto\projectos\RentService\RentService\obj\Debug\net6.0\RentService.dll
+C:\Users\gilmar\Desktop\CSharpCompleto\projectos\RentService\RentService\obj\Debug\net6.0\refint\RentService.dll
+C:\Users\gilmar\Desktop\CSharpCompleto\projectos\RentService\RentService\obj\Debug\net6.0\RentService.pdb
+C:\Users\gilmar\Desktop\CSharpCompleto\projectos\RentService\RentService\obj\Debug\net6.0\RentService.genruntimeconfig.cache
+C:\Users\gilmar\Desktop\CSharpCompleto\projectos\RentService\RentService\obj\Debug\net6.0\ref\RentService.dll
